@@ -8,6 +8,6 @@
       },
       "allowJs": true
     },
-    "exclude": ["node_modules", "mdm-web"]
+    "exclude": ["node_modules"]
   }
   
