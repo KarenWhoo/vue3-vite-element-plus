@@ -20,7 +20,6 @@
     "vuex": "^4.0.2"
   },
   "devDependencies": {
-    "@iconify-json/bx": "^1.1.2",
     "@iconify-json/carbon": "^1.1.5",
     "@vitejs/plugin-legacy": "^1.8.1",
     "eslint": "^8.14.0",
